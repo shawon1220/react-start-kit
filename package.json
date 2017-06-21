@@ -1,0 +1,28 @@
+{
+  "name": "react-start-kit",
+  "version": "1.0.0",
+  "description": "node koa reactjs redux webpack babel es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawon1220/react-start-kit.git"
+  },
+  "keywords": [
+    "node",
+    "koa",
+    "reactjs",
+    "redux",
+    "webpack",
+    "babel",
+    "es6"
+  ],
+  "author": "shawon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawon1220/react-start-kit/issues"
+  },
+  "homepage": "https://github.com/shawon1220/react-start-kit#readme"
+}
